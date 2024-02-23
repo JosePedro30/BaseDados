@@ -1,0 +1,1748 @@
+[{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a4f"
+  },
+  "address": {
+    "building": "1827",
+    "coord": [
+      -73.8456653,
+      40.7823455
+    ],
+    "street": "College Point Boulevard",
+    "zipcode": "11356"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1408579200000"
+        }
+      },
+      "grade": "B",
+      "score": 15
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1395360000000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1376956800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1361750400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1341792000000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1328140800000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    }
+  ],
+  "name": "Pizza Town",
+  "restaurant_id": "40370091"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429d8"
+  },
+  "address": {
+    "building": "4",
+    "coord": [
+      -74.00065800000002,
+      40.735114
+    ],
+    "street": "Charles Street",
+    "zipcode": "10014"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1397606400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1382918400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1342051200000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1330387200000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1317859200000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1306972800000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    }
+  ],
+  "name": "El Charro Espanol",
+  "restaurant_id": "40366987"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42945"
+  },
+  "address": {
+    "building": "60",
+    "coord": [
+      -74.0085357,
+      40.70620539999999
+    ],
+    "street": "Wall Street",
+    "zipcode": "10005"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Turkish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1411689600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1379462400000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1348185600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1336521600000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    }
+  ],
+  "name": "The Country Cafe",
+  "restaurant_id": "40362715"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42982"
+  },
+  "address": {
+    "building": "30-13",
+    "coord": [
+      -73.9151096,
+      40.763377
+    ],
+    "street": "Steinway Street",
+    "zipcode": "11103"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1412553600000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1381363200000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1351036800000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1339545600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1326758400000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    }
+  ],
+  "name": "Rizzo'S Fine Pizza",
+  "restaurant_id": "40364920"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42955"
+  },
+  "address": {
+    "building": "464",
+    "coord": [
+      -73.9791458,
+      40.744328
+    ],
+    "street": "3 Avenue",
+    "zipcode": "10016"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1407196800000"
+        }
+      },
+      "grade": "A",
+      "score": 3
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1394064000000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1373328000000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1359504000000"
+        }
+      },
+      "grade": "A",
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1325721600000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1316995200000"
+        }
+      },
+      "grade": "A",
+      "score": 0
+    }
+  ],
+  "name": "Domino'S Pizza",
+  "restaurant_id": "40363644"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a6a"
+  },
+  "address": {
+    "building": "180",
+    "coord": [
+      -73.98621539999999,
+      40.7350907
+    ],
+    "street": "3 Avenue",
+    "zipcode": "10003"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1408147200000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1374451200000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1344816000000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1328745600000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    }
+  ],
+  "name": "Mariella Pizza",
+  "restaurant_id": "40371313"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a2c"
+  },
+  "address": {
+    "building": "1366",
+    "coord": [
+      -73.88228649999999,
+      40.6481972
+    ],
+    "street": "Pennsylvania Avenue",
+    "zipcode": "11239"
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1410825600000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1393632000000"
+        }
+      },
+      "grade": "B",
+      "score": 25
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1369094400000"
+        }
+      },
+      "grade": "B",
+      "score": 18
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1337904000000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1320105600000"
+        }
+      },
+      "grade": "B",
+      "score": 19
+    }
+  ],
+  "name": "Armando'S Pizza",
+  "restaurant_id": "40369482"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429ee"
+  },
+  "address": {
+    "building": "406",
+    "coord": [
+      -73.9550129,
+      40.768019
+    ],
+    "street": "East 73 Street",
+    "zipcode": "10021"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1406678400000"
+        }
+      },
+      "grade": "A",
+      "score": 6
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1369267200000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1349308800000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1346716800000"
+        }
+      },
+      "grade": "P",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1329955200000"
+        }
+      },
+      "grade": "B",
+      "score": 22
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1315785600000"
+        }
+      },
+      "grade": "B",
+      "score": 24
+    }
+  ],
+  "name": "Malaga Restaurant",
+  "restaurant_id": "40367544"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429d0"
+  },
+  "address": {
+    "building": "80-32",
+    "coord": [
+      -73.8845166,
+      40.744772
+    ],
+    "street": "Baxter Avenue",
+    "zipcode": "11373"
+  },
+  "borough": "Queens",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1421020800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1409702400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1405555200000"
+        }
+      },
+      "grade": "P",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1386806400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1372723200000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1358899200000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1333497600000"
+        }
+      },
+      "grade": "B",
+      "score": 22
+    }
+  ],
+  "name": "La Fusta Restaurant",
+  "restaurant_id": "40366879"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429a3"
+  },
+  "address": {
+    "building": "413",
+    "coord": [
+      -73.99532099999999,
+      40.750205
+    ],
+    "street": "8 Avenue",
+    "zipcode": "10001"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1399852800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1386115200000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1352937600000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1340582400000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1327276800000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1315353600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    }
+  ],
+  "name": "New York Pizza Suprema",
+  "restaurant_id": "40365882"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a6d"
+  },
+  "address": {
+    "building": "19901",
+    "coord": [
+      -73.79014660000001,
+      40.769692
+    ],
+    "street": "32 Avenue",
+    "zipcode": "11358"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1392249600000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1356652800000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1323129600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    }
+  ],
+  "name": "Vinny'S Pizza",
+  "restaurant_id": "40371323"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429f6"
+  },
+  "address": {
+    "building": "81-28",
+    "coord": [
+      -73.8305269,
+      40.7089494
+    ],
+    "street": "Lefferts Boulevard",
+    "zipcode": "11415"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1417564800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1403654400000"
+        }
+      },
+      "grade": "A",
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1382400000000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1347408000000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1334793600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    }
+  ],
+  "name": "Dani Pizza And Restaurant",
+  "restaurant_id": "40367789"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f4299b"
+  },
+  "address": {
+    "building": "113",
+    "coord": [
+      -73.9979214,
+      40.7371344
+    ],
+    "street": "West   13 Street",
+    "zipcode": "10011"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1406246400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1395878400000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1358121600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1325116800000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1312329600000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    }
+  ],
+  "name": "Spain Restaurant & Bar",
+  "restaurant_id": "40365472"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42b16"
+  },
+  "address": {
+    "building": "158",
+    "coord": [
+      -73.8982405,
+      40.8616283
+    ],
+    "street": "E. 188 Th St",
+    "zipcode": "10468"
+  },
+  "borough": "Bronx",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1418256000000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1406160000000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1391990400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1376265600000"
+        }
+      },
+      "grade": "B",
+      "score": 21
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1357603200000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1323907200000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    }
+  ],
+  "name": "Cuchifritos",
+  "restaurant_id": "40380164"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429ac"
+  },
+  "address": {
+    "building": "16304",
+    "coord": [
+      -73.78999089999999,
+      40.7118632
+    ],
+    "street": "Jamaica Avenue",
+    "zipcode": "11432"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1406246400000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1391990400000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1357171200000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1326412800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1317168000000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    }
+  ],
+  "name": "Margherita Pizza",
+  "restaurant_id": "40366002"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a93"
+  },
+  "address": {
+    "building": "1",
+    "coord": [
+      -73.990556,
+      40.749722
+    ],
+    "street": "Penn Plaza",
+    "zipcode": "10001"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1412640000000"
+        }
+      },
+      "grade": "A",
+      "score": 4
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1381363200000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1349049600000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1319155200000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    }
+  ],
+  "name": "Caruso Pizza #2",
+  "restaurant_id": "40372523"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42c05"
+  },
+  "address": {
+    "building": "2119",
+    "coord": [
+      -73.9024234,
+      40.8545577
+    ],
+    "street": "Grand Concourse",
+    "zipcode": "10453"
+  },
+  "borough": "Bronx",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1420588800000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1403913600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1370304000000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1356480000000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    }
+  ],
+  "name": "Vinny'S Famous Pizza",
+  "restaurant_id": "40389365"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f429bf"
+  },
+  "address": {
+    "building": "168",
+    "coord": [
+      -74.0016583,
+      40.7319679
+    ],
+    "street": "West    4 Street",
+    "zipcode": "10014"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1405382400000"
+        }
+      },
+      "grade": "B",
+      "score": 15
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1372204800000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1340755200000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1327881600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    }
+  ],
+  "name": "Tio Pepe",
+  "restaurant_id": "40366473"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42ba1"
+  },
+  "address": {
+    "building": "359",
+    "coord": [
+      -73.9821078,
+      40.6658524
+    ],
+    "street": "Seventh Avenue",
+    "zipcode": "11215"
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1405987200000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1373414400000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1342051200000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    }
+  ],
+  "name": "Pizza Plus",
+  "restaurant_id": "40386303"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42cb0"
+  },
+  "address": {
+    "building": "1529",
+    "coord": [
+      -74.0087873,
+      40.6109983
+    ],
+    "street": "86 Street",
+    "zipcode": "11228"
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1413936000000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1400544000000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1382400000000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1348617600000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1336608000000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    }
+  ],
+  "name": "Pizza Plate",
+  "restaurant_id": "40394122"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42956"
+  },
+  "address": {
+    "building": "148",
+    "coord": [
+      -73.9806854,
+      40.7778589
+    ],
+    "street": "West   72 Street",
+    "zipcode": "10023"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1417996800000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1399248000000"
+        }
+      },
+      "grade": "B",
+      "score": 18
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1365120000000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1333065600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    }
+  ],
+  "name": "Domino'S Pizza",
+  "restaurant_id": "40363945"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a17"
+  },
+  "address": {
+    "building": "245",
+    "coord": [
+      -74.000399,
+      40.740848
+    ],
+    "street": "West   16 Street",
+    "zipcode": "10011"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1392854400000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1369958400000"
+        }
+      },
+      "grade": "B",
+      "score": 23
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1349136000000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1317686400000"
+        }
+      },
+      "grade": "A",
+      "score": 5
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1306281600000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    }
+  ],
+  "name": "Cafe Riazor",
+  "restaurant_id": "40368725"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42985"
+  },
+  "address": {
+    "building": "4035",
+    "coord": [
+      -73.9395182,
+      40.8422945
+    ],
+    "street": "Broadway",
+    "zipcode": "10032"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1391990400000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1359936000000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1325635200000"
+        }
+      },
+      "grade": "A",
+      "score": 6
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1316044800000"
+        }
+      },
+      "grade": "C",
+      "score": 60
+    }
+  ],
+  "name": "Como Pizza",
+  "restaurant_id": "40365280"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42c33"
+  },
+  "address": {
+    "building": "221",
+    "coord": [
+      -73.989497,
+      40.754057
+    ],
+    "street": "West   38 Street",
+    "zipcode": "10018"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1415577600000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1389830400000"
+        }
+      },
+      "grade": "B",
+      "score": 14
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1372723200000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1335139200000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1324339200000"
+        }
+      },
+      "grade": "A",
+      "score": 4
+    }
+  ],
+  "name": "Lazzaras Pizza Cafe",
+  "restaurant_id": "40391121"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a28"
+  },
+  "address": {
+    "building": "8502",
+    "coord": [
+      -73.8818014,
+      40.7347681
+    ],
+    "street": "Grand Avenue",
+    "zipcode": "11373"
+  },
+  "borough": "Queens",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1413331200000"
+        }
+      },
+      "grade": "A",
+      "score": 7
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1380931200000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1347408000000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    }
+  ],
+  "name": "John'S Pizzeria",
+  "restaurant_id": "40369262"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42a63"
+  },
+  "address": {
+    "building": "172",
+    "coord": [
+      -74.0007509,
+      40.7287609
+    ],
+    "street": "Bleecker Street",
+    "zipcode": "10012"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Spanish",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1407196800000"
+        }
+      },
+      "grade": "A",
+      "score": 10
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1389052800000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1369958400000"
+        }
+      },
+      "grade": "B",
+      "score": 25
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1340668800000"
+        }
+      },
+      "grade": "B",
+      "score": 26
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1326844800000"
+        }
+      },
+      "grade": "C",
+      "score": 54
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1315267200000"
+        }
+      },
+      "grade": "B",
+      "score": 14
+    }
+  ],
+  "name": "Cafe Espanol",
+  "restaurant_id": "40370759"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f4299e"
+  },
+  "address": {
+    "building": "6322",
+    "coord": [
+      -73.9896898,
+      40.6199526
+    ],
+    "street": "18 Avenue",
+    "zipcode": "11204"
+  },
+  "borough": "Brooklyn",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1419897600000"
+        }
+      },
+      "grade": "A",
+      "score": 12
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1400112000000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1383004800000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1349481600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1332979200000"
+        }
+      },
+      "grade": "A",
+      "score": 13
+    }
+  ],
+  "name": "J&V Famous Pizza",
+  "restaurant_id": "40365632"
+},{
+  "_id": {
+    "$oid": "5eb3d668b31de5d588f42bfb"
+  },
+  "address": {
+    "building": "819",
+    "coord": [
+      -73.98724899999999,
+      40.766272
+    ],
+    "street": "9 Avenue",
+    "zipcode": "10019"
+  },
+  "borough": "Manhattan",
+  "cuisine": "Pizza",
+  "grades": [
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1403049600000"
+        }
+      },
+      "grade": "A",
+      "score": 9
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1389657600000"
+        }
+      },
+      "grade": "A",
+      "score": 2
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1355097600000"
+        }
+      },
+      "grade": "A",
+      "score": 11
+    },
+    {
+      "date": {
+        "$date": {
+          "$numberLong": "1323043200000"
+        }
+      },
+      "grade": "A",
+      "score": 8
+    }
+  ],
+  "name": "Sacco Pizza",
+  "restaurant_id": "40389114"
+}]
